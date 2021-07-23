@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-owen/restaurant-roulette.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-owen/restaurant-roulette/issues"
+  },
+  "homepage": "https://github.com/eric-owen/restaurant-roulette#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
